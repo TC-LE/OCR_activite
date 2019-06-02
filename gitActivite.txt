@@ -1,2 +1,4 @@
 pour créer ce repository:
 git init OCR_activite
+echo "du texte" >> gitActivite.txt
+echo "du texte" >> githubActivite.txt
