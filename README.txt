@@ -12,5 +12,5 @@ ACTIONS:
 
 [LOCAL]
 - Déclaration du remote en local
-- push du master vers githup
+- push du master vers github
  
