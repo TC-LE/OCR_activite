@@ -1,1 +1,5 @@
 Commentaires à venir concernant les actions github
+Pour déclarer ce repo sur github,
+déclarer sur github un repo du même nom, puis en local:
+git remote add origin https://github.com/TC-LE/OCR_activite.git
+git push -u origin master
