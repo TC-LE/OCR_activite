@@ -1,0 +1,2 @@
+pour créer ce repository:
+git init OCR_activite
